@@ -1,18 +1,19 @@
 # This file is distributed under the same license as the Django package.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-15 13:13-0400\n"
-"PO-Revision-Date: 2011-03-04 18:14+0000\n"
-"Last-Translator: Jannis <jannis@leidel.info>\n"
+"PO-Revision-Date: 2012-01-24 13:21\n"
+"Last-Translator: Yuna Iha  <i_una411@yahoo.co.jp>\n"
 "Language-Team: Japanese <None>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0\n"
+"X-Translated-Using: django-transhette 0.1.SVN\n"
 
 #: media/js/SelectFilter2.js:45
 #, perl-format
@@ -21,7 +22,7 @@ msgstr "利用可能 %s"
 
 #: media/js/SelectFilter2.js:52
 msgid "Filter"
-msgstr ""
+msgstr "フィルター"
 
 #: media/js/SelectFilter2.js:59
 msgid "Choose all"
@@ -54,35 +55,19 @@ msgid_plural "%(sel)s of %(cnt)s selected"
 msgstr[0] "%(cnt)s個中%(sel)s個選択"
 
 #: media/js/actions.js:109 media/js/actions.min.js:5
-msgid ""
-"You have unsaved changes on individual editable fields. If you run an "
-"action, your unsaved changes will be lost."
-msgstr ""
-"フィールドに未保存の変更があります。操作を実行すると未保存の変更は失われま"
-"す。"
+msgid "You have unsaved changes on individual editable fields. If you run an action, your unsaved changes will be lost."
+msgstr "フィールドに未保存の変更があります。操作を実行すると未保存の変更は失われます。"
 
 #: media/js/actions.js:121 media/js/actions.min.js:6
-msgid ""
-"You have selected an action, but you haven't saved your changes to "
-"individual fields yet. Please click OK to save. You'll need to re-run the "
-"action."
-msgstr ""
-"操作を選択しましたが、フィールドに未保存の変更があります。OKをクリックして保"
-"存してください。その後、操作を再度実行する必要があります。"
+msgid "You have selected an action, but you haven't saved your changes to individual fields yet. Please click OK to save. You'll need to re-run the action."
+msgstr "操作を選択しましたが、フィールドに未保存の変更があります。OKをクリックして保存してください。その後、操作を再度実行する必要があります。"
 
 #: media/js/actions.js:123 media/js/actions.min.js:6
-msgid ""
-"You have selected an action, and you haven't made any changes on individual "
-"fields. You're probably looking for the Go button rather than the Save "
-"button."
-msgstr ""
-"操作を選択しましたが、フィールドに変更はありませんでした。もしかして保存ボタ"
-"ンではなくて実行ボタンをお探しですか。"
+msgid "You have selected an action, and you haven't made any changes on individual fields. You're probably looking for the Go button rather than the Save button."
+msgstr "操作を選択しましたが、フィールドに変更はありませんでした。もしかして保存ボタンではなくて実行ボタンをお探しですか。"
 
 #: media/js/calendar.js:24 media/js/dateparse.js:32
-msgid ""
-"January February March April May June July August September October November "
-"December"
+msgid "January February March April May June July August September October November December"
 msgstr "1月 2月 3月 4月 5月 6月 7月 8月 9月 10月 11月 12月"
 
 #: media/js/calendar.js:25
